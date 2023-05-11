@@ -13,5 +13,5 @@ BZOT9 Snake 3.0 Website by BZOT9 Team
 
 =================
 
-**WEBSITE:** https://binzfake9999.github.io/bzot9-snake
+**WEBSITE:** https://binzfake9999.github.io/bzot9snake
 (Verified by BZOT9 Team)
